@@ -1,21 +1,21 @@
 {
-  "name": "FormatData",
-  "version": "1.0.0",
+  "name": "zy-formatdata",
+  "version": "1.0.1",
   "description": "Your package description",
   "main": "index.js",
-  "author": "Zy",
-  "license": "MIT",
+  "author": "zy7747",
+  "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/your-username/your-package-name.git"
+    "url": "https://github.com/zy7747/FormatData.git"
   },
   "keywords": [
     "npm",
     "package",
-    "FormatData"
+    "zyFormatData"
   ],
   "bugs": {
-    "url": "https://github.com/your-username/your-package-name/issues"
+    "url": "https://github.com/zy7747/FormatData/issues"
   },
-  "homepage": "https://github.com/your-username/your-package-name#readme"
+  "homepage": "https://github.com/zy7747/FormatData#readme"
 }
